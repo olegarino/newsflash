@@ -11,26 +11,8 @@
     </cargoProject>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="424e7c5b-c065-40d3-b2f4-514ceecf4563" name="Changes" comment="Update README">
+    <list default="true" id="424e7c5b-c065-40d3-b2f4-514ceecf4563" name="Changes" comment="Changed yew to react">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/Cargo.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/LICENSE-APACHE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/LICENSE-MIT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/data/000008.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/data/000009.sst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/data/CURRENT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/data/IDENTITY" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/data/LOCK" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/data/LOG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/data/MANIFEST-000005" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/data/OPTIONS-000007" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/index.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/src/app.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsflash-ui/src/main.rs" beforeDir="false" />
     </list>
     <list id="cd12cb93-822b-409c-9d14-97a4b6f273d5" name="ignore" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +67,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
     &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
     &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
     &quot;org.rust.disableDetachedFileInspection/Users/olegtchernov/Desktop/newsflash/newsflash-api/src/routes/auth.rs&quot;: &quot;true&quot;,
@@ -159,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758900433320</updated>
       <workItem from="1758900434417" duration="1694000" />
-      <workItem from="1758987590621" duration="11363000" />
+      <workItem from="1758987590621" duration="12586000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -177,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758992827864</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changed yew to react">
+      <option name="closed" value="true" />
+      <created>1759280263828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759280263828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +190,8 @@
     <MESSAGE value=".idea fix" />
     <MESSAGE value="Add gitignore" />
     <MESSAGE value="Update README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README" />
+    <MESSAGE value="Changed yew to react" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed yew to react" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
