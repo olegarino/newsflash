@@ -1,0 +1,4 @@
+/migrations
+/scripts
+.env
+configuration.yaml
