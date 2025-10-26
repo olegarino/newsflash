@@ -1,0 +1,7 @@
+FROM rust:1.90-slim
+WORKDIR /app
+RUN apt update && apt install lld clang -y
+COPY . .
+ENV SQLX_OFFLINE=true
+RUN cargo build --release
+ENTRYPOINT ["./target/release/news-api"]
